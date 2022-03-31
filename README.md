@@ -41,6 +41,7 @@ form.
 ## b) Univariate Analysis
 Based on the Exploratory Data Analysis (EDA), we found an interesting summary of the
 following relationships:
+
 1. BMI (Body Mass Index) vs Heart Disease distribution
 Usually, the normal BMI range is regarded as 18.5~24.9. From the BMI distribution plot of people
 who have heart disease (see Appendix 1.1), we can see that the median BMI is nearly 30, which
